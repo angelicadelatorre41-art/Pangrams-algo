@@ -1,1 +1,1 @@
-# Pangrams-algo
+# Pangrams-algo A pangram is a sentence that includes every letter of the alphabet at least once. This code converts the input to lowercase, collects all unique letters, and checks if the count equals 26 — returning "pangram" if true, otherwise "not pangram".
